@@ -1,6 +1,6 @@
 # DesignIpsCloudEnvironment
 A really long path...
-# VERSION I
+## Overview 
 This project is aimed to design in IPS in a cloud computing environment. At the primary stage, I will focus on detecting 
 XSS(http based traffic, which will soonner be extend with wireshark networks logs, on premices logs, real-time iocs and so on...) based malicious activity. 
 The first tests will be perform on vbox and azure vpc.The code is essentially on python. The code editor doesn't matter.
