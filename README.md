@@ -20,9 +20,3 @@ At last, we will use for this this test our own generated dataset thank to burps
 ## Pipeline:
 In short, That's the starting point... Which unfortunately change in the future..😂
 ![image](https://github.com/heerbx/DesignIpsCloudEnvironment/assets/70644385/4c00f5d4-8ccb-47ea-b0fd-be0b5de94b92)
-
-## Microsoft vpc
-This is how test test environment looks like.
-![image](https://github.com/heerbx/DesignIpsCloudEnvironment/assets/70644385/b9ce3238-52fd-43f2-8148-5f2856824688)
-
-
