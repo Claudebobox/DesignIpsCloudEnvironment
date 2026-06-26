@@ -7,9 +7,6 @@ The first tests will be perform on vbox and azure vpc.The code is essentially on
 Our goal is to reduce as much as possible, the latency time into detecting and preventing malicious activity in a cloud in order to enhance his
 security. Artificial Intelligence will enhance our chances to reach our goals. The Machine learning we are about to deal with is an 'Unsupervised Ml algorithm'.
 Using this graph, you should rapidly comprehend why we did that choice...
-
-![image](https://github.com/heerbx/DesignIpsCloudEnvironment/assets/70644385/62891c89-a062-4a68-80c0-0b9a7396979c)
-
 At last, we will use for this this test our own generated dataset thank to burpsuite and acunetix.
 ##  Requirements
 -> Python libs(pyhton 3.11.x): pandas, pycaret, urllib, ET, csv...
